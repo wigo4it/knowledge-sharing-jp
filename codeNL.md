@@ -1,3 +1,6 @@
+[Hier](https://codefor.nl/community-translations-standard/nl/criteria/)
+
+
 | Thema                      | Beleidsmakers (B)                                                                                 | Managers (M)                                                                                      | Ontwikkelaars/Ontwerpers (O)                                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Programmeer in het openbaar | Beleid openbaar ontwikkelen en transparantie centraal stellen                                      | Cultuur bevorderen waarin openheid, leren en feedback centraal staan                               | Bijdragen controleren op gevoelige info, strikte scheiding tussen data en broncode                            |
