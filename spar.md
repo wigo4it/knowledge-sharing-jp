@@ -7,15 +7,3 @@
 | **Voorbeelden van Tools / Aspecten**  <br>• Sentinel, Log Analytics, Kusto Queries, dashboards  <br>• Nessus, SonarCloud, Contrast (technische integratie)  <br>• Terraform, ARM-templates, CI/CD workflows  <br>• Monitoring/observability en resource tagging  | **Voorbeelden van Tools / Aspecten**  <br>• Security: prioriteiten vaststellen voor detectie en alerts  <br>• Privacy: AVG/BIO-checks, persoonsgegevens in logs/trace-data  <br>• Auditing: traceerbaarheid van kritieke acties (intern/extern)  <br>• Risk: threat modeling-sessies, compliance-dashboards, risicoregister, risico-heatmaps  |
 | **Samenwerking**  <br>• Reguliere afstemming met SPAR over gewenste data, nieuwe features, technische wijzigingen  <br>• Realiseert wijzigingen in tooling en infrastructuur n.a.v. SPAR-behoeften  <br>• Neemt deel aan Post-Incident Reviews (PIR) en voert technische verbeteringen door  | **Samenwerking**  <br>• Geeft aan welke data, alerts en rapportages vereist zijn (security-, privacy-, en risicoperspectief)  <br>• Biedt feedback op incidenten/trends die technische aanpassingen of nieuw beleid vereisen  <br>• Initieert/organiseert awareness-sessies, trainingsmomenten en verbeterprocessen (retro’s, PIR)  <br>• Overlegt met CE&E en andere stakeholders om risico’s door te spreken en te prioriteren  |
 | **Kernresultaat**  <br>• **Robuust, effectief en schaalbaar platform** voor security- en loggingtools  <br>• **Continuïteit en performance** van (cloud)infrastructuur en securityoplossingen  <br>• **Geautomatiseerde scanning & monitoring** voor snelle feedback op risico’s  | **Kernresultaat**  <br>• **Effectief gebruik** van platformen vanuit security-, privacy-, auditing- én risicoperspectief  <br>• **Regelmatige revisie** en optimalisatie van beleid en richtlijnen  <br>• **Compliance en betrouwbaarheid** door heldere rapportages, incidentafhandeling en naleving van regels (AVG, BIO, etc.)  <br>• **Inzicht in en mitigatie van risico’s** dankzij een actief risicomanagementproces  |
-
-## Overkoepelend / Samen
-- **Incident-escalatie**  
-  - Wie neemt de lead bij P1/P2/P3? Duidelijke procedure en communicatie.
-- **Continu verbeteren**  
-  - Gezamenlijke retro’s / Post-Incident Reviews (PIR), waarbij lessons learned direct worden vertaald naar nieuw beleid en tooling.
-- **Kennisdeling & Training**  
-  - Workshops, lunch & learns, onboarding voor DevOps-teams rond tools en richtlijnen (security, privacy, auditing, risicomanagement).
-- **Externe Partijen**  
-  - Afspraken over contact met auditors (ISO, SOC2), pen-testleveranciers en toolproviders (licenties, support).
-- **Risk & Compliance Board** (optioneel)  
-  - Periodiek overleg (bijv. wekelijks of maandelijks) met CE&E, SPAR en andere stakeholders (Legal, HR, CISO) om risico’s te beoordelen, prioriteren en opvolgen.
